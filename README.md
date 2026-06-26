@@ -1,4 +1,4 @@
-# n8n-jira-ticket-automation-
+
 # n8n Jira Ticket Automation
 
 ## Overview
